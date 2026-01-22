@@ -5,4 +5,4 @@
 0.2
 # Pensamientos Computacional
 # Taller Github
-# instalacion de herramientas
+# instalacion de herramiental
